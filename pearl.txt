@@ -1,2 +1,4 @@
 my name is aarju
 my name is infinity
+include iostream
+using namespace std
